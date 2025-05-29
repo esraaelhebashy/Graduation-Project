@@ -1,0 +1,184 @@
+[
+  {
+    "id": 0,
+    "img": "img/product/0.jpeg",
+    "name": "Soleia Dress",
+    "price": 25,
+    "category":"Dresses"
+  },
+  {
+    "id": 1,
+    "img": "img/product/1.jpeg",
+    "name": "Florisol Dress",
+    "price": 18,
+    "category":"Dresses"
+  },
+  {
+    "id": 2,
+    "img": "img/product/2.jpeg",
+    "name": "Fairy_Tale Dress",
+    "price": 30,
+    "category":"Dresses"
+  },
+  {
+    "id": 3,
+    "img": "img/product/3.jpeg",
+    "name": "Pink Chiffon Romantic Floral Skirt",
+    "price": 21,
+    "category":"Skirts"
+  },
+  {
+    "id": 4,
+    "img": "img/product/4.jpeg",
+    "name": "Classic pleated Skirt ",
+    "price": 17,
+    "category":"Skirts"
+  },
+  {
+    "id": 5,
+    "img": "img/product/5.jpeg",
+    "name": "Delicate Asymmetric Hem Skirt",
+    "price": 28,
+    "category":"Skirts"
+  },
+  {
+    "id": 6,
+    "img": "img/product/6.jpeg",
+    "name": "Jacquard Pleated Elegant Skirt",
+    "price": 25.55,
+    "old_price": 39.15,
+    "category":"Skirts"
+  },
+  {
+    "id": 7,
+    "img": "img/product/7.jpeg",
+    "name": "Flare Leg Pants",
+    "price": 29,
+    "category":"Pants"
+  },
+  {
+    "id": 8,
+    "img": "img/product/8.jpeg",
+    "name": "Elegant & Modern Strait-Leg Pants",
+    "price": 26,
+    "category":"Pants"
+  },
+  {
+    "id": 9,
+    "img": "img/product/9.jpeg",
+    "name": "Plain Pleated Ruffle Tie Neck Puff Sleeve Blouse",
+    "price": 13.75,
+    "old_price": 21.12,
+    "category":"Blouses"
+  },
+  {
+    "id": 10,
+    "img": "img/product/10.jpeg",
+    "name": "Romantic Faux Pearl Handle Party Clutch",
+    "price":13.34,
+    "category":"Bags"
+  },
+  {
+    "id": 11,
+    "img": "img/product/11.jpeg",
+    "name": "Women's Elegant Floral Vegan Leather Handbag",
+    "price":18.72 ,
+    "old_price":38 ,
+    "category":"Bags"
+  },
+  {
+    "id": 12,
+    "img": "img/product/12.jpeg",
+    "name": "Women's Oblique Shoulder Bag, Fashionable Embroidered Handbag",
+    "price":19.32 ,
+    "category":"Bags"
+  },
+  {
+    "id": 13,
+    "img": "img/product/13.jpeg",
+    "name": "Solid Color PU Leather Shoulder Bag",
+    "price":12.12 ,
+    "category":"Bags"
+  },
+  {
+    "id": 14,
+    "img": "img/product/14.jpeg",
+    "name": "Fashionable Solid Color Vintage Simple & Elegant Shoulder Bag",
+    "price":9.63 ,
+    "category":"Bags"
+  },
+  {
+    "id": 15,
+    "img": "img/product/15.jpeg",
+    "name": "Elegant Pleated Large Capacity Evening Bag, With Round Metal Handle Bag",
+    "price":17.80,
+    "old_price":22.77,
+    "category":"Bags"
+  },
+  {
+    "id": 16,
+    "img": "img/product/16.jpeg",
+    "name": "Luxurious Evening Bag",
+    "price": 14.35,
+    "old_price":19.86 ,
+    "category":"Bags"
+  },
+  {
+    "id": 17,
+    "img": "img/product/17.jpeg",
+    "name": "Fashionable Minimalist Handbag",
+    "price":20,
+    "category":"Bags"
+  },
+  {
+    "id": 18,
+    "img": "img/product/18.jpeg",
+    "name": "Chic Plaid Square Design Crossbody Bag Convenient Handbag With Scarf Decor",
+    "price": 11.31,
+    "category":"Bags"
+  },
+  {
+    "id": 19,
+    "img": "img/product/19.jpeg",
+    "name": "Mini Two Tone Flap Square Bag",
+    "price": 9.23,
+    "category":"Bags"
+  },
+  {
+    "id": 20,
+    "img": "img/product/20.jpeg",
+    "name": "Loos Wide Leg Baggy Jeans",
+    "price": 39.11,
+    "old_price":25.53 ,
+    "category":"Pants"
+  },
+  {
+    "id": 21,
+    "img": "img/product/21.jpeg",
+    "name": "Vintage Sheer Embroidered Lantern Sleeve Blouse",
+    "price": 8,
+    "category":"Blouses"
+  },
+  {
+    "id": 22,
+    "img": "img/product/22.jpeg",
+    "name": "Elegant Drop Shoulder Long Sleeve Shirt",
+    "price": 16,
+    "category":"Blouses"
+  },
+  {
+    "id": 23,
+    "img": "img/product/23.jpeg",
+    "name": "Waist A-Line Elegant Romantic Embroidered Dress",
+    "price": 41.18,
+    "category":"Dresses"
+  },
+  {
+    "id": 24,
+    "img": "img/product/24.jpeg",
+    "name": "Print V-Neck Bell Sleeve Chic Blouse",
+    "price": 10.64,
+    "old_price": 15.46,
+    "category":"Blouses"
+  }
+]
